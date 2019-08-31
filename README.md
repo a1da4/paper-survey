@@ -1,8 +1,9 @@
 # paper
-## 0.論文
-## 1.どんなもの？
-## 2.先行研究と比べてどこがすごい？
-## 3.技術や手法のキモはどこ？
-## 4.どうやって有効だと検証した？
-## 5.議論はある？
-## 6.次に読むべき論文は？
+I will stack the paper which I finished to read to the "issues".
+## 0.Paper
+## 1.What is it?
+## 2.What is amazing compared to previous studies?
+## 3.Where is the key to technologies and techniques?
+## 4.How did validate it?
+## 5.Is there a discussion?
+## 6.Which paper should read next?
