@@ -1,5 +1,11 @@
 # paper
-I will stack the paper which I finished to read to the "issues".
+I will stack the paper which I finished to read to the "issues".  
+Main topic  
+* representation(embedding)  
+* data/model confidence/uncertainty
+* machine translation(NMT)
+* historical language change
+
 ## 0. Paper
 
 ## 1. What is it?
