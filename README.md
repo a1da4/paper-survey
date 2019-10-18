@@ -2,7 +2,7 @@
 I will stack the paper which I finished to read to the "issues".  
 Main topic  
 * representation(embedding, cross-mapping)  
-* data/model confidence/uncertainty
+* data/model confidence/uncertainty/quality-estimation
 * machine translation(NMT)
 * historical language change
 
