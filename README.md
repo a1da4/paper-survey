@@ -6,7 +6,7 @@ Main topic
 * quality-estimation
 * machine translation(NMT)
 * historical language change
-* data argumentation
+* data augumentation
 
 ## 0. Paper
 
