@@ -1,5 +1,6 @@
 # paper
-I will stack the paper which I finished to read to the "issues".  
+I stack the paper to the "issues" which I read.
+
 Main topic  
 * representation(embedding, cross-mapping)  
 * data/model confidence/uncertainty
