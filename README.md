@@ -4,9 +4,9 @@ I stack the paper to the "issues" which I read.
 Main topic  
 * representation(embedding, cross-mapping)  
 * data/model confidence/uncertainty
-* quality-estimation(QE)
 * machine translation(MT, NMT)
-* historical language change
+* quality-estimation(QE), metrics
+* time series modeling(historical language change)
 * data augumentation
 
 ## 0. Paper
