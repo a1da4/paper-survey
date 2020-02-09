@@ -13,11 +13,11 @@ Main topic
 
 ## 1. What is it?
 
-## 2. What is amazing compared to previous studies?
+## 2. What is amazing compared to previous works?
 
 ## 3. Where is the key to technologies and techniques?
 
-## 4. How did validate it?
+## 4. How did evaluate it?
 
 ## 5. Is there a discussion?
 
