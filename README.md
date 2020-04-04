@@ -8,7 +8,7 @@ Main topic
 * machine translation(MT, NMT)
 * quality-estimation(QE), metrics
 * representation(embedding, cross-mapping)  
-* time series modeling(historical language change)
+* semantic shift
 
 ## 0. Paper
 
