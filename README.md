@@ -2,13 +2,12 @@
 I stack the paper to the "issues" which I read.
 
 Main topic  
-* data augumentation
-* data/model confidence/uncertainty
+* data/model confidence/uncertainty in Deep Learning
 * language modeling
-* machine translation(MT, NMT)
-* quality-estimation(QE), metrics
-* representation(embedding, cross-mapping)  
-* semantic shift
+* machine translation (MT, NMT)
+* quality-estimation (QE) and metrics in MT
+* representation (embedding, cross-mapping for bilingual word embeddings)  
+* word semantic shift
 
 ## 0. Paper
 
