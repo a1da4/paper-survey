@@ -8,6 +8,7 @@ Main topic
 * quality-estimation (QE) and metrics in MT
 * representation (embedding, cross-mapping for bilingual word embeddings)  
 * word semantic shift
+* named entity recognition
 
 ## 0. Paper
 
