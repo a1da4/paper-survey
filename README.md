@@ -1,5 +1,5 @@
 # paper
-I stack the paper to the "issues" which I read.
+I stack the paper to the "issues".
 
 Main topic  
 * data/model confidence/uncertainty in Deep Learning
