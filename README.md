@@ -3,12 +3,11 @@ I stack the paper to the "issues".
 
 Main topic  
 * data/model confidence/uncertainty in Deep Learning
-* language modeling
 * machine translation (MT, NMT)
 * quality-estimation (QE) and metrics in MT
 * representation (embedding, cross-mapping for bilingual word embeddings)  
-* word semantic shift
-* named entity recognition
+* semantic change of words
+* domain adaptation
 
 ## 0. Paper
 
